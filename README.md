@@ -10,6 +10,6 @@ Steps to upload your file
 7. after then you have to create a text at  same place name.txt 
 8. Now upload your file in named folder day wise 
 9. After completing above step go to pull request 
-10. all steps complete here
+ 10. all steps complete here
 
 Note -:- these have to done only once other wise you will not able to upload your assignments
